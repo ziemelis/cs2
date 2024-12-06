@@ -1,15 +1,15 @@
-{
-    "dwViewMatrix": 25716496,
-    "dwLocalPlayerPawn": 25713704,
-    "dwEntityList": 24741688,
-    "m_hPlayerPawn": 1980,
-    "m_iHealth": 812,
-    "m_lifeState": 816,
-    "m_iTeamNum": 959,
-    "m_vOldOrigin": 4628,
-    "m_pGameSceneNode": 784,
-    "m_modelState": 352,
-    "m_boneArray": 128,
+    {
+    "dwEntityList": 27206792,
+    "dwLocalPlayerPawn": 25517288,
+    "dwViewMatrix": 27608400,
+    "m_hPlayerPawn": 2060,
+    "m_iHealth": 836,
+    "m_lifeState": 840,
+    "m_iTeamNum": 995,
+    "m_vOldOrigin": 4900,
+    "m_pGameSceneNode": 808,
+    "m_modelState": 368,
     "m_nodeToWorld": 16,
-    "m_sSanitizedPlayerName": 1824
-}
+    "m_sSanitizedPlayerName": 1904,
+    "m_boneArray": 128
+    }
